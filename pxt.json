@@ -1,0 +1,33 @@
+{
+    "name": "GBS -GEORGE",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "game-building-session-tutorials-2024": "github:Code-Ninjas-Home-Office/game-building-session-tutorials-2024#6c442007e051c14f3fdd6e36fbd01cd7f04469da"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.56",
+        "tag": "v1.12.56",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/415ef2df2ac233e8d214fef5f4ea26f2f5de232a",
+        "target": "1.12.56",
+        "pxt": "8.5.67",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
